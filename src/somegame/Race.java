@@ -1,16 +1,16 @@
 package somegame;
 
 public abstract class Race {
-   abstract int spell();
-   abstract int melee();
-   abstract int distant(); 
-   abstract String getSide();
-   abstract String speak();
-   abstract int attack();
-   abstract void updateHP(double damage);
+   abstract int spell();            //this method returns the valuse of attack
+   abstract int melee();            //this method returns the valuse of attack
+   abstract int distant();          //this method returns the valuse of attack
+   abstract String getSide();       //this method returns the side of characte - Alliance or Horde
+   abstract String speak();         //this method returns who is this character
+   abstract int attack();           //this method chose which attack would be accourding to the scecialization
+   abstract void updateHP(double damage);  
    abstract double getHP();
    abstract boolean isAlive();
-   abstract double isUnderBuff();
+   abstract double isUnderBuff();   //check is character under positive buff
    abstract void setCurse(boolean _curse);
    abstract void setBuff(boolean _buff);
    
@@ -38,6 +38,7 @@ public abstract class Race {
         HP=HP-damage;
     }
     
+     @Override
     void setCurse(boolean _curse){
         curse=_curse;
     }
@@ -48,6 +49,7 @@ public abstract class Race {
         else if(curse==true){return 0.5;}
         else return 1;
     }
+     @Override
     void setBuff(boolean _buff){
         buff=_buff;
     }
@@ -110,9 +112,9 @@ public abstract class Race {
     @Override
     public String speak(){ 
         switch(spec){
-            case("spell"):{return "Elf-mage"+id;}
-            case("melee"):{return "Elf-melee"+id;}
-            case("distance"):{return "Elf-distance"+id;}
+            case("spell"):{return "Elf-mage";}
+            case("melee"):{return "Elf-warrior"+(id-3);}
+            case("distance"):{return "Elf-archer"+id;}
         }
     return "";
 }
@@ -137,8 +139,7 @@ public abstract class Race {
     
     @Override
     boolean isAlive(){
-        if(HP>0){return true;}
-        else return false;
+        return HP>0;
     }
     
     @Override
@@ -157,6 +158,7 @@ public abstract class Race {
         buff=_buff;
     }
     
+    @Override
      void setCurse(boolean _curse){
         curse=_curse;
     }
@@ -212,9 +214,9 @@ public abstract class Race {
       @Override
     public String speak(){ 
         switch(spec){
-            case("spell"):{return "Human-mage"+id;}
-            case("melee"):{return "Human-melee"+id;}
-            case("distance"):{return "Human-distance"+id;}
+            case("spell"):{return "Human-mage";}
+            case("melee"):{return "Human-warrior"+(id-3);}
+            case("distance"):{return "Human-arbalester"+id;}
         }
     return "";
 }
@@ -238,8 +240,7 @@ class Orc extends Race {
     
     @Override
     boolean isAlive(){
-        if(HP>0){return true;}
-        else return false;
+        return HP>0;
     }
     
       @Override
@@ -255,6 +256,7 @@ class Orc extends Race {
     @Override
     double getHP(){return HP;}
     
+    @Override
     void setCurse(boolean _curse){
         curse=_curse;
     }
@@ -313,9 +315,9 @@ class Orc extends Race {
       @Override
     public String speak(){ 
         switch(spec){
-            case("spell"):{return "Orc-mage"+id;}
-            case("melee"):{return "Orc-melee"+id;}
-            case("distance"):{return "Orc-distance"+id;}
+            case("spell"):{return "Orc-shaman";}
+            case("melee"):{return "Orc-goblin"+(id-3);}
+            case("distance"):{return "Orc-archer"+id;}
         }
     return "";
 }
@@ -337,8 +339,7 @@ class Undead extends Race {
     };
     @Override
     boolean isAlive(){
-        if(HP>0){return true;}
-        else return false;
+        return HP>0;
     }
       @Override
     double isUnderBuff(){
@@ -350,6 +351,7 @@ class Undead extends Race {
         buff=_buff;
     }
     
+    @Override
     void setCurse(boolean _curse){
         curse=_curse;
     }
@@ -413,9 +415,9 @@ class Undead extends Race {
      @Override
     public String speak(){ 
         switch(spec){
-            case("spell"):{return "Undead-mage"+id;}
-            case("melee"):{return "Undead-melee"+id;}
-            case("distance"):{return "Undead-distance"+id;}
+            case("spell"):{return "Undead-necromancer";}
+            case("melee"):{return "Undead-zombie"+(id-3);}
+            case("distance"):{return "Undead-hunter"+id;}
         }
     return "";
 }

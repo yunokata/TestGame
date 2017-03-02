@@ -1,0 +1,141 @@
+**Game START**
+1) Human-warrior3 attack Orc-goblin3 by 18.0
+2) Human-arbalester1 attack Orc-archer3 by 5.0
+3) Orc-goblin2 attack Human-warrior1 by 20.0
+4) Orc-goblin1 attack Human-mage by 20.0
+5) Human-warrior2 attack Orc-goblin1 by 18.0
+6) Orc-archer3 attack Human-arbalester1 by 3.0
+7) Human-warrior1 attack Orc-archer2 by 18.0
+8) Orc-archer3 attack Human-arbalester3 by 3.0
+9) Orc-archer2 attack Human-arbalester1 by 3.0
+10) Orc-goblin1 attack Human-arbalester2 by 20.0
+11) Orc-archer2 attack Human-warrior1 by 2.0
+12) Orc-archer2 attack Human-warrior1 by 3.0
+13) Orc-archer2 attack Human-mage by 2.0
+14) Orc-archer1 attack Human-arbalester2 by 2.0
+15) Orc-goblin1 attack Human-warrior2 by 20.0
+16) Human-warrior3 attack Orc-archer3 by 18.0
+17) Orc-archer2 attack Human-warrior1 by 3.0
+18) Orc-goblin2 attack Human-warrior3 by 20.0
+19) Human-warrior4 attack Orc-goblin2 by 18.0
+20) Orc-archer2 attack Human-warrior2 by 3.0
+21) Human-warrior1 attack Orc-goblin3 by 18.0
+22) Human-warrior4 attack Orc-goblin2 by 18.0
+23) Human-arbalester2 attack Orc-goblin4 by 5.0
+24) Human-warrior1 attack Orc-goblin3 by 18.0
+25) Human-warrior2 attack Orc-archer3 by 18.0
+26) Orc-archer2 attack Human-arbalester1 by 3.0
+27) Human-mage attack Orc-archer3 by 4.0
+28) Orc-goblin4 attack Human-arbalester3 by 20.0
+29) Human-arbalester1 attack Orc-goblin2 by 3.0
+30) Orc-archer2 attack Human-arbalester2 by 2.0
+31) Orc-archer3 attack Human-warrior4 by 3.0
+32) Human-warrior4 attack Orc-goblin2 by 18.0
+33) Orc-goblin1 attack Human-arbalester1 by 20.0
+34) Human-arbalester3 attack Orc-archer3 by 3.0
+35) Orc-goblin1 attack Human-warrior2 by 20.0
+36) Human-warrior2 attack Orc-shaman by 18.0
+37) Orc-goblin4 attack Human-warrior2 by 20.0
+38) Human-warrior1 attack Orc-goblin1 by 18.0
+39) Human-warrior3 attack Orc-goblin2 by 18.0
+40) Orc-goblin1 attack Human-warrior4 by 20.0
+41) Orc-goblin3 attack Human-warrior4 by 20.0
+42) Human-warrior3 attack Orc-archer1 by 18.0
+43) Orc-goblin3 attack Human-arbalester2 by 20.0
+44) Human-warrior3 attack Orc-archer1 by 18.0
+45) Human-arbalester1 attack Orc-archer1 by 5.0
+46) Human-warrior3 attack Orc-goblin4 by 18.0
+47) Orc-goblin2 attack Human-warrior3 by 20.0
+48) Orc-archer3 attack Human-arbalester1 by 2.0
+49) Orc-archer2 attack Human-mage by 3.0
+50) Orc-goblin2 attack Human-warrior1 by 20.0
+51) Human-mage buff Human-arbalester1
+52) BUFFED Human-arbalester1 attack Orc-shaman by 7.5
+53) Human-arbalester1 attack Orc-shaman by 5.0
+54) Human-warrior1 attack Orc-archer1 by 18.0
+55) Orc-goblin1 attack Human-warrior1 by 20.0
+56) Orc-archer1 attack Human-mage by 2.0
+57) Orc-archer3 attack Human-warrior4 by 3.0
+58) Orc-goblin1 attack Human-arbalester1 by 20.0
+59) Orc-shaman buff Orc-goblin1
+60) BUFFED Orc-goblin1 attack Human-warrior3 by 30.0
+61) Human-warrior4 attack Orc-shaman by 18.0
+62) Human-arbalester2 attack Orc-goblin4 by 3.0
+63) Human-warrior2 attack Orc-archer2 by 18.0
+64) Human-arbalester2 attack Orc-archer3 by 3.0
+65) Orc-goblin3 attack Human-arbalester2 by 20.0
+66) Orc-archer1 attack Human-arbalester2 by 2.0
+67) Orc-shaman buff Orc-shaman
+68) BUFFED Orc-shaman debaf Alliance 
+69) Orc-shaman debaf Alliance 
+70) Human-warrior3 attack Orc-goblin1 by 18.0
+71) Orc-archer2 attack Human-warrior1 by 3.0
+72) Orc-goblin2 attack Human-arbalester3 by 20.0
+73) Human-warrior1 attack Orc-goblin4 by 18.0
+74) Orc-goblin4 attack Human-arbalester3 by 20.0
+75) Orc-goblin3 attack Human-warrior2 by 20.0
+76) Orc-shaman debaf Alliance 
+77) Orc-goblin2 attack Human-warrior1 by 20.0
+78) Human-arbalester3 attack Orc-archer2 by 3.0
+79) Human-warrior4 attack Orc-archer2 by 18.0
+80) Orc-archer1 attack Human-arbalester1 by 3.0
+81) Human-arbalester2 attack Orc-archer3 by 5.0
+82) Human-arbalester3 attack Orc-archer3 by 3.0
+83) Orc-goblin3 attack Human-mage by 20.0
+84) Orc-archer3 attack Human-warrior2 by 3.0
+85) Human-arbalester2 attack Orc-goblin3 by 3.0
+86) Orc-shaman buff Orc-archer3
+87) BUFFED Orc-archer3 attack Human-warrior4 by 3.0
+88) Human-warrior3 attack Orc-goblin4 by 18.0
+89) Orc-shaman debaf Alliance 
+90) Orc-archer2 attack Human-mage by 3.0
+91) Human-warrior3 attack Orc-goblin4 by 18.0
+92) Orc-goblin2 attack Human-mage by 20.0
+93) Orc-goblin1 attack Human-mage by 20.0
+94) Human-warrior2 attack Orc-goblin4 by 18.0
+95) Human-warrior3 attack Orc-shaman by 18.0
+96) Orc-shaman debaf Alliance 
+97) Human-arbalester3 attack Orc-goblin3 by 5.0
+98) Human-mage buff Human-warrior4
+99) BUFFED Human-warrior4 attack Orc-archer2 by 27.0
+100) Orc-goblin2 attack Human-arbalester2 by 20.0
+101) Human-warrior1 attack Orc-archer2 by 18.0 WARNING Orc-archer2 died!
+102) Orc-archer1 attack Human-arbalester2 by 2.0
+103) Orc-goblin4 attack Human-warrior1 by 20.0 WARNING Human-warrior1 died!
+104) Orc-shaman buff Orc-goblin4
+105) BUFFED Orc-goblin4 attack Human-mage by 30.0 WARNING Human-mage died!
+106) Orc-goblin2 attack Human-arbalester1 by 20.0
+107) Human-warrior1 attack Orc-archer3 by 18.0
+108) Human-warrior1 attack Orc-shaman by 18.0
+109) Human-warrior3 attack Orc-goblin3 by 18.0
+110) Human-warrior4 attack Orc-goblin1 by 18.0
+111) Orc-goblin3 attack Human-arbalester1 by 20.0
+112) Human-arbalester1 attack Orc-goblin2 by 3.0
+113) Human-arbalester3 attack Orc-goblin3 by 5.0
+114) Orc-shaman debaf Alliance 
+115) Orc-archer2 attack Human-arbalester2 by 2.0
+116) Human-warrior4 attack Orc-archer1 by 18.0
+117) Orc-goblin4 attack Human-arbalester1 by 20.0 WARNING Human-arbalester1 died!
+118) Orc-goblin4 attack Human-arbalester2 by 20.0 WARNING Human-arbalester2 died!
+119) Human-warrior1 attack Orc-shaman by 18.0 WARNING Orc-shaman died!
+120) Orc-shaman debaf Alliance 
+121) Human-warrior3 attack Orc-archer1 by 18.0
+122) Human-warrior4 attack Orc-goblin1 by 18.0
+123) Orc-goblin3 attack Human-arbalester3 by 20.0
+124) Human-warrior3 attack Orc-goblin2 by 18.0
+125) Orc-archer3 attack Human-warrior3 by 3.0
+126) Orc-goblin4 attack Human-arbalester3 by 20.0 WARNING Human-arbalester3 died!
+127) Orc-archer3 attack Human-warrior2 by 2.0
+128) Orc-shaman debaf Alliance 
+129) Orc-archer3 attack Human-warrior3 by 3.0
+130) Orc-goblin1 attack Human-warrior2 by 20.0 WARNING Human-warrior2 died!
+131) Orc-shaman debaf Alliance 
+132) Orc-goblin1 attack Human-warrior4 by 20.0
+133) Orc-shaman buff Orc-goblin3
+134) BUFFED Orc-goblin3 attack Human-warrior4 by 30.0
+135) Orc-goblin4 attack Human-warrior4 by 20.0 WARNING Human-warrior4 died!
+136) Orc-goblin4 attack Human-warrior3 by 20.0
+137) Orc-goblin3 attack Human-warrior3 by 20.0 WARNING Human-warrior3 died!
+**TOTAL SCORE**
+Alliance: -16 Horde: 59
+Horde WIN!
